@@ -1,2 +1,2 @@
-Amaze Continuity Project
-The project that maintains all of AmazeCC.
+# Amaze Continuity Project
+The project that maintains all of AmazeCC and its subdomains.
