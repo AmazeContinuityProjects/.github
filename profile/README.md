@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[public/images/icons/AmazeCC.png](https://github.com/AmazeContinuityProjects/AmazeCC/blob/main/public/images/icons/AmazeCC.png)" width="320" alt="AmazeCC">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Amaze_Continuity_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Amaze_Continuity_Projects-181717?style=for-the-badge&logo=github&logoColor=white">
