@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[public/images/icons/AmazeCC.png](https://github.com/AmazeContinuityProjects/AmazeCC/blob/main/public/images/icons/AmazeCC.png)" width="320" alt="AmazeCC">
+  <img src="https://github.com/AmazeContinuityProjects/AmazeCC/blob/main/public/images/icons/AmazeCC.png" width="320" alt="AmazeCC">
 </p>
 
 <picture>
